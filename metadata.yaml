@@ -1,0 +1,30 @@
+_repo: The-Enemies-of-Books_1302
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blades, William
+    birthdate: 1824
+    deathdate: 1890
+    gutenberg_agent_id: '590'
+    url: http://www.gutenberg.org/2009/agents/590
+    wikipedia: http://en.wikipedia.org/wiki/William_Blades
+description: ''
+gutenberg_bookshelf: Bibliomania
+gutenberg_issued: '1998-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1302'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Book-worms'
+- !lcsh 'Books -- Conservation and restoration'
+- !lcc 'Z'
+- GITenberg
+tableOfContents: 'Fire -- Water -- Gas and heat -- Dust and neglect -- Ignorance --
+  The bookworm -- Other vermin -- Bookbinders -- Collectors -- Conclusion: Reverence
+  for old books'
+title: The Enemies of Books
+url: http://www.gutenberg.org/ebooks/1302
