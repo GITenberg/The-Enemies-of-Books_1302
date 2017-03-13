@@ -1,5 +1,8 @@
 _repo: The-Enemies-of-Books_1302
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Blades, William
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/590
     wikipedia: http://en.wikipedia.org/wiki/William_Blades
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1302#The-Enemies-of-Books
 gutenberg_bookshelf: Bibliomania
 gutenberg_issued: '1998-05-01'
 gutenberg_type: Text
